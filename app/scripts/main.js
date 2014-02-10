@@ -20,4 +20,32 @@ function Collection (models) {
       return result;
     }
   }
-}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function Quiz (Testing) {
+//   this.score = 0;
+//   this.title = 'Testing';
+// };
+
+
+// function add (a, b) {
+//   return a + b;
+// };
+
+    
